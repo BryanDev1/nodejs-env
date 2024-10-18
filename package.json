@@ -1,0 +1,15 @@
+{
+	"type": "module",
+	"name": "nodejs",
+	"version": "1.0.0",
+	"description": "exercice for env ",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"dotenv": "^16.4.5"
+	}
+}
